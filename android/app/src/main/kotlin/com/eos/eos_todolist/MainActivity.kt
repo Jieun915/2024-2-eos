@@ -1,5 +1,5 @@
 package com.eos.eos_todolist
 
-import io.flutter.embedding.android.FlutterActivity
+import io.flutter.reembedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity()
